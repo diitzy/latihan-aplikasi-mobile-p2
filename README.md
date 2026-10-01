@@ -18,6 +18,5 @@ print("Total bayar: Rp${hitungPembayaran(150000, true)}");
 ```
 
 # Nama Anggota Kelompok
-# Muhammad Aditya Saputra (1124160009)
-# Muhammad Aldiansyah (1124160053)
-# TI 24 P SE-3
+- Muhammad Aditya Saputra (1124160009)
+- Muhammad Aldiansyah (1124160053)
